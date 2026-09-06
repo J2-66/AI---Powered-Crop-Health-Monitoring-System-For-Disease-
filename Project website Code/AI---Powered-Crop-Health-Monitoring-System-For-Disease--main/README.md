@@ -643,7 +643,7 @@ Streamlit will install the packages from `requirements.txt` and start the applic
 **Streamlit Web App:**
 
 ```text
-PASTE-YOUR-STREAMLIT-APP-LINK-HERE
+https://drwsddynszwyaiqjg6bhob.streamlit.app/
 ```
 
 Example format:
