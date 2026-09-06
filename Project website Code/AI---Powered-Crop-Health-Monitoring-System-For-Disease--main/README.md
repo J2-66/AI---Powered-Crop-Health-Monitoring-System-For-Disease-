@@ -646,16 +646,6 @@ Streamlit will install the packages from `requirements.txt` and start the applic
 https://drwsddynszwyaiqjg6bhob.streamlit.app/
 ```
 
-Example format:
-
-```text
-https://your-app-name.streamlit.app
-```
-
-Replace the placeholder with your actual deployed application URL.
-
----
-
 # 🛠️ Troubleshooting Streamlit Deployment
 
 ## Error Running App
